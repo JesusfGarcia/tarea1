@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
-Edad: 			23
+Nombre: 		Jesús Garcia
+Edad: 			19
 Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en Computación
-Profesión:		Lead Project Manager
+Originario de: 		Ahome, Sinaloa
+Estudios:		Ing. en informatica
+Profesión:		android developer
